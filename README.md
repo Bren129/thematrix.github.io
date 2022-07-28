@@ -1,6 +1,6 @@
 # Personal Matrix Project
 
-My Matrix projet is a focus on building a wepage for MIT.
+My Matrix projet is a focus on building a wepage for MITxPro.
 
 With this project, I hope to be able to develop my skills as a coder and developer to delve deeper into more complex projects and designs. 
 
